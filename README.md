@@ -1,1 +1,1 @@
-# Millionaire.app
+# MillionaireApp
